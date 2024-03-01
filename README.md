@@ -7,4 +7,4 @@
 
 ### Required tools
 - `npm` 
-- `node` 
+- `node`
